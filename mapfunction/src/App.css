@@ -1,0 +1,7 @@
+.App{
+  display: flex;
+  gap:15px;
+  justify-content: center;
+  padding-top: 50px;
+  background-color: cadetblue;
+}
